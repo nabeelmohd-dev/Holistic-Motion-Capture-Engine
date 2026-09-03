@@ -67,7 +67,3 @@ This opens the application window and connects to your default webcam (device in
 ## 📁 Output Format
 
 Saved JSON files contain a list of frames, each with normalized `(x, y, z)` coordinates for the landmark groups relevant to the selected tracking mode (`pose_landmarks`, `face_landmarks`, `left_hand_landmarks`, `right_hand_landmarks`).
-
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for details.
