@@ -37,7 +37,7 @@ This system was developed to solve the challenge of high-latency motion capture.
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/yourusername/Skeletal-Tracking.git
+   git clone https://github.com/nabeelmohd-dev/Holistic-Motion-Capture-Engine.git
    cd Skeletal-Tracking
    ```
 
